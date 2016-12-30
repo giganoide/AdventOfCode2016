@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day1
+namespace AdventOfCode
 {
-    public class Class1
+    public class Day1
     {
     }
 }
